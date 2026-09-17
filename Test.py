@@ -1,4 +1,4 @@
-print("Bonjour tous le monde")
+print("Bonjour tous le monde ")
 class AdresseIPInvalideError(Exception):
     def __init__(self,message):
         super().__init__(message)
